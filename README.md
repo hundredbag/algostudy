@@ -1,3 +1,8 @@
-# problem_solving
+# 1day_1Baekjoon
 
-알고리즘 문제풀이 소스코드 업로드용 repository
+하루에 알고리즘 문제 1개 풀기
+https://www.acmicpc.net/
+
+
+첫 번째 목표.
+단계별 풀어보기 

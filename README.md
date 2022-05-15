@@ -1,10 +1,5 @@
-# 1day_1Baekjoon
+# Algorithm study
 
-하루에 알고리즘 문제 1개 풀기
+백준 : https://www.acmicpc.net/
 
-https://www.acmicpc.net/
-
-
-첫 번째 목표.
-
-단계별 풀어보기 
+Leetcode : https://leetcode.com/
